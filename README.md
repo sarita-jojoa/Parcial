@@ -68,4 +68,8 @@ print("Tiempo de ejecución:", fin - inicio, "segundos")
 # incrementar los datos sin tener que duplicar el tiempo mientras estos aumentan y sea más 
 # rapido ante los demás algoritmos.
 ```
+## salida de consola
+<img width="827" height="147" alt="image" src="https://github.com/user-attachments/assets/1dfb86c5-7298-4ee5-9957-6e302559acc6" />
+
+
 <img width="801" height="503" alt="image" src="https://github.com/user-attachments/assets/31219550-120b-4257-acf3-91498a62e886" />
