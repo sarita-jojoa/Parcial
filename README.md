@@ -169,7 +169,9 @@ print("Selection Sort:", medir_tiempo(selection_sort, selection_lista))
 ```
 ## salida de consola
 <img width="366" height="177" alt="image" src="https://github.com/user-attachments/assets/04c34293-02f8-43f3-a33a-ee8896f56956" />
-## concluciones 
+
+## Concluciones
+
 podemos darnos cuenta que los más rapidos son merge sort y quick sort por lo cúal son los mas convenientes, en este caso no elegimos quick porque en su peor caso puede caer en notación big (n²) el cual cuadruplicaria el tiempo mientras aumentan los datos, aunque es el más rapido debemos prevenir que cuadruplique el tiempo entonces elegimos merge sort, ya que se mantiene constante con sus resultados a pesar de que los datos aumenten sin presentar cambios en el tiempo.
 
 <img width="801" height="503" alt="image" src="https://github.com/user-attachments/assets/31219550-120b-4257-acf3-91498a62e886" />
